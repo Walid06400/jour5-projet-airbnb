@@ -1,0 +1,49 @@
+@font-face {
+    font-family: airbnb;
+    src: url(/photo/AirbnbCereal_W_Bk.otf);
+}
+html{font-family: airbnb;}
+
+.top{
+    font-weight: 200;
+    font-style: normal;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.iconid1 {
+    width: 50pxpx;
+    height:50px;
+
+}
+
+.iconid2 {
+width: 80px;
+height: 50px;
+
+}
+
+.banicon {
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+.banicon img {
+    width : 35px;
+}
+ .banicon p {
+    font-size: 15px ;
+ }
+
+.pictgroupe img {
+    
+
+}
+
+
+
+
